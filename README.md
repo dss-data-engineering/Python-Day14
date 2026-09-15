@@ -1,6 +1,6 @@
 # Python-Day14
 
-We re-implemented the coffee machine simulator from Python-Day13 but this time using objects!
+We re-implemented the coffee machine simulator from Python-Day13 but this time the project is object oriented!
 
 To run, please navigate to the location of main.py on your system and use the command "python main.py" in Terminal.
 
